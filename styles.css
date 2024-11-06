@@ -60,3 +60,12 @@ p {
 .categoria h2 {
     color:deeppink;
 }
+
+
+.container-foto {
+background-image: url(Background.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+text-align: center;
+align-items: center;
+}
