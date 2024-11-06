@@ -69,3 +69,8 @@ background-size: contain;
 text-align: center;
 align-items: center;
 }
+
+
+.container.image {
+    margin: 1em 0 2em 0;
+}
