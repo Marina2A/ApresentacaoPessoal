@@ -88,9 +88,10 @@ h2 {
     width: 300px;
 }
 
-.descriçao-p {
-    padding-right: 50px;
+
+/* seção sobre-mim */
+.descriçao {
+    padding-right:50px ;
     padding-top: 30px;
 }
-
 
