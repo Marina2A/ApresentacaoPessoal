@@ -62,12 +62,6 @@ p {
 }
 
 /* Seção de músicas*/
-#musicas {
-    font-size: 25px;
-}
-
-
-/* Seção links-estudo*/
 h2 {
     font-size: 40px;
 }
@@ -75,6 +69,16 @@ h2 {
 
 p {
     font-size: 30;
+}
+
+/* Seção links-estudo*/
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 30px;
 }
 
 
