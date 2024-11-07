@@ -80,12 +80,13 @@ h2 {
 
 
 .chamada-texto h1 {
-    font-size: 15px; 
+    font-size: 25px; 
+    padding-left: 16px;
 }
 
 
 .foto img {
-    width: 300px;
+    width: 315px;
 }
 
 
