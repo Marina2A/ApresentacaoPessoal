@@ -64,7 +64,7 @@ p {
 
 /* Seção de músicas*/
 h2 {
-    font-size: 40px;
+    font-size: 35px;
 }
 
 
@@ -75,12 +75,20 @@ ul {
 /* Seção links-estudo*/
 
 h2 {
-    font-size: 40px;
+    font-size: 35px;
 }
 
 
 .chamada-texto h1 {
     font-size: 15px; 
 }
+
+.rodape {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+}
+
 
 
