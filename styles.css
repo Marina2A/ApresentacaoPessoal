@@ -61,16 +61,12 @@ p {
     color:deeppink;
 }
 
-
-.foto {
-background-image: url(marina.jpg);
-background-repeat: no-repeat;
-background-size: contain;
-text-align: center;
-align-items: center;
+/* Seção "sobre mim"*/
+#sobre-mim.foto img {
+width: 200px;
+height: 200px;
+border-radius: 50%;
+margin-right: 20px;
 }
 
 
-.container {
-    margin: 1em 0 2em 0;
-}
