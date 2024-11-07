@@ -62,6 +62,15 @@ p {
 }
 
 /* Seção "sobre mim"*/
+#sobre-mim {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 40px 0;
+}
+
+
+
 #sobre-mim.foto img {
 width: 200px;
 height: 200px;
